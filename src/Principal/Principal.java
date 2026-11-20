@@ -1,3 +1,4 @@
+// Clase Principal -  ejecucion del sistema
 package principal;
 
 import modelo.Paciente;
