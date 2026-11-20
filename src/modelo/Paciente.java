@@ -1,3 +1,4 @@
+// Clase Paciente - Aplica enmascaramiento de DNI segun Ley 29733
 package modelo;
 
 public class Paciente {
