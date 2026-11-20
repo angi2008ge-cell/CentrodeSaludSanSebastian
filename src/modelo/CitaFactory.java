@@ -1,3 +1,4 @@
+// Clase CitaFactory - Implementacion del Patron de Diseno Factory
 package modelo;
 
 public class CitaFactory {
